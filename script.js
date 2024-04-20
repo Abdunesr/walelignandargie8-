@@ -47,3 +47,6 @@ function showSlider(type){
         next.click();
     }, timeAutoNext)
 }
+function ADD (){
+    document.getelementbyid('s').innerhtml="tigist";
+}
