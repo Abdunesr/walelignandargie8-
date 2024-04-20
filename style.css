@@ -6,6 +6,15 @@ body{
     font-size: 12px;
 }
 
+h1{
+    color:blue;
+  }
+h2{
+   color:#eee;
+
+}
+p{
+    color:blue;
 a{
     text-decoration: none;
 }
