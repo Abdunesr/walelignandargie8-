@@ -49,4 +49,9 @@ function showSlider(type){
 }
 function ADD (){
     document.getelementbyid('s').innerhtml="tigist";
+    document.getelementbyid('s').innerhtml="desu";
+    document.getelementbyid('s').innerhtml="abedela";
+    document.getelementbyid('s').innerhtml="elias";
+    document.getelementbyid('s').innerhtml="biruk";
+    
 }
